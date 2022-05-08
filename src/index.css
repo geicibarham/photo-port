@@ -3,6 +3,7 @@ main {
 	margin: 0 auto;
 	max-width: 90%;
   padding: 50px 30px;
+  color: white;
 }
 :root {
   --primary: #8c54ff;
